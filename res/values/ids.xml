@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ImageView01">false</item>
+    <item type="id" name="ad">false</item>
+    <item type="id" name="surface_view">false</item>
+    <item type="id" name="rel_webpage_whole">false</item>
+    <item type="id" name="progressbar_Horizontal">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="ad1">false</item>
+    <item type="id" name="refresh">false</item>
+    <item type="id" name="share">false</item>
+</resources>
